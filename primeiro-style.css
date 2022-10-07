@@ -1,0 +1,27 @@
+h2{
+    color: red;
+    text-align: center;
+}
+
+.nome{
+    background-color: blueviolet;
+}
+
+body {
+    background-color: lightblue;
+  }
+
+h3{
+    color: brown;
+    text-align: justify;
+}
+
+table, td {
+    border: 2px solid;
+  }
+
+th {
+    background-color: red;
+    color: white;
+    border: 1px solid;
+  }
